@@ -1,4 +1,4 @@
--- ** HUZAIFA JAHAN (215668106, huzaifaj) ** schema.sql for project 1B 
+-- ** HUZAIFA JAHAN ** schema.sql
 
 create table student(
 	ssn char(9) not null,
